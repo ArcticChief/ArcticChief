@@ -16,8 +16,10 @@ I'm a Software Developer with expertise in .NET Core, C#, and Agile methodologie
 
 ## 💞️ Looking to Collaborate On
 - Open-source .NET Core projects
+- Open-source Python program
 - Cloud-based applications
-- Scalable and maintainable software solutions
+- LLM's
+- Artificial Inteligence
 
 ## 📫 How to Reach Me
 - Email: [pedromsvarela@gmail.com](mailto:pedromsvarela@gmail.com)
